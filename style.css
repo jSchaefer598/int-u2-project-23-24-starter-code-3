@@ -4,3 +4,15 @@ header {
     color: white;
     padding: 128px 16px;
 }
+
+img{
+    width: 60%;
+}
+
+.image{
+    align-items: center;
+}
+
+.animal{
+    width: 48%;
+}
