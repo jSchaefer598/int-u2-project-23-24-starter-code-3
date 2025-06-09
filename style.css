@@ -10,9 +10,23 @@ img{
 }
 
 .image{
-    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .animal{
     width: 48%;
+}
+
+.animalImg{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p{
+    font-size: 80%;
+}
+
+p:hover{
+    font-size: 125%;
 }
