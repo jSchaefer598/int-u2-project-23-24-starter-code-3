@@ -5,6 +5,10 @@ header {
     padding: 128px 16px;
 }
 
+body{
+    background-color: #afeeee;
+}
+
 img{
     width: 60%;
 }
